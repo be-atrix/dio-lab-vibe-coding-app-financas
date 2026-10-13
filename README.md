@@ -44,14 +44,20 @@ Em um piloto, medir tempo para registrar um gasto, proporção de interpretaçõ
 
 O conceito, o PRD e o plano de validação foram preparados com assistência do Codex. A proposta inicial foi refinada para incluir confirmação de lançamentos, esclarecimento de ambiguidades, separação de receitas e despesas e cálculos explicados. Esses critérios tornam o conceito revisável antes de uma implementação.
 
-Uma revisão complementar foi tentada no GitHub Copilot. A conta exibiu a licença gratuita em ativação e não retornou uma revisão. O Lovable apresentou um painel vazio após o login. Nenhuma geração nessas duas ferramentas é atribuída ao projeto.
+A revisão complementar foi executada no GitHub Copilot em 13 de outubro de 2026. A resposta confirmou o fluxo de confirmação antes de persistir, edição sem duplicar, metas e cálculo explicado; também propôs um plano de validação com usuários. As métricas sugeridas são hipóteses, não resultados medidos. Voz e aprendizado automático sugeridos pela IA foram deixados fora do MVP para manter o escopo simples. O exemplo de prazo do Copilot exige conferir a data de referência antes de aplicar o cálculo. O Lovable apresentou um painel vazio após o login e não gerou uma aplicação.
 
 ## Reflexão sobre o processo
 
 Definir exemplos concretos ajudou a transformar a ideia em requisitos verificáveis. A regra de confirmar o lançamento antes de salvar evita tratar uma interpretação probabilística como um fato financeiro. A separação entre proposta, registro confirmado e relatório tornou o fluxo mais claro.
 
-As ferramentas externas não funcionaram como esperado nesta sessão. O plano de testes permanece uma proposta; não houve aplicação implementada nem validação com usuários. O aprendizado central é que instruções específicas precisam vir acompanhadas de critérios de aceitação e de uma descrição honesta do que foi executado.
+O Copilot gerou uma revisão útil do conceito, enquanto o Lovable permaneceu indisponível nesta sessão. O plano de testes permanece uma proposta; não houve aplicação implementada nem validação com usuários. O aprendizado central é que instruções específicas precisam vir acompanhadas de critérios de aceitação e de uma descrição honesta do que foi executado.
 
 ## Escopo da entrega
 
 Este é um projeto conceitual, conforme a opção sem código do desafio. Não representa um app publicado nem oferece aconselhamento financeiro.
+
+## Evidência da interação
+
+A captura abaixo registra a interação real com o GitHub Copilot. Ela documenta a revisão do conceito, não um app implementado.
+
+![Revisão real do conceito pelo GitHub Copilot](https://github.com/user-attachments/assets/0246f7a1-0c1b-4102-b63f-b55fe019cec1)
